@@ -19,3 +19,11 @@ h1 {
   width: 7em;
 }
 
+select {
+  margin-left: .5rem;
+}
+
+.equals {
+  font-weight: bold;
+  font-size: 2rem;
+}
